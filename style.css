@@ -36,6 +36,10 @@ th, td {
     border-bottom: 1px solid #ddd;
     border-top:1px solid #ddd; ;
   }
+  tr:hover 
+  {
+color: grey; cursor: pointer;
+  }
   .relation
   {
     border-collapse: collapse;
